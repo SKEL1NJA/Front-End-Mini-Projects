@@ -14,8 +14,8 @@ A static, pixel-perfect clone of the Amazon homepage. This project was a deep di
     * **CSS Grid:** Implemented for the main 4-column responsive card layout.
     * **Advanced CSS:** Used `mask-image` for the hero fade effect and `z-index` with negative margins to create the signature overlapping card layout.
 * **Technologies:** `HTML5` `CSS3`
-* **[➡️ View the Code](https://github.com/SKEL1NJA/amazon-homepage-clone-)**
-* **[🚀 View Live Demo](https://skel1nja.github.io/amazon-homepage-clone-/)**
+* **[➡️ View the Code](https://github.com/SKEL1NJA/ecommerce-homepage-clone)**
+* **[🚀 View Live Demo](https://skel1nja.github.io/ecommerce-homepage-clone/)**
 
 ---
 
